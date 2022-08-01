@@ -1,16 +1,58 @@
 # Cypher_Transaction_App_Web_3.0
-# Basic Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+# Cypher_Transaction_App_Web_3.0
 
-Try running some of the following tasks:
+Web 3.0 has the potential to change the internet as we know it, forever. We are early in catching the trend right now. With a stunning design, connected to the blockchain, Meta mask pairing, interaction with smart contracts, sending Ethereum through the blockchain network, writing solidity code, and much more, Cypher is the best Web3 Blockchain app.
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
+The frontend is made with ReactJS which is a framework of JavaScript and the backend uses blockchain technology. Here Ethereum is acts as the cryptocurrency to send and receive transactions for which the Ropsten Test Network is used. And for Ethereum development platform, Hardhat is used where we are deploying the smart contracts.
+
+
+
+## Demo
+
+Insert gif or link to demo
+
+https://camo.githubusercontent.com/b61e5e14fa54284302665905b7548c96dc36a81c500fbda2172f0ce95ce8302a/68747470733a2f2f692e6962622e636f2f44564634744e572f696d6167652e706e67
+## Features
+
+- Account Detais
+- Crytpocurrency Transaction
+- View of transaaction in local ledger
+- Metamask Connectivity
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
 ```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express, SOLIDITY, Ethereum, Smart-contract
+
+
+
