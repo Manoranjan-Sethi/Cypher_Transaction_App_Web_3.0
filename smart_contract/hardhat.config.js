@@ -1,4 +1,3 @@
-
 require('@nomiclabs/hardhat-waffle');
 
 module.exports = {
@@ -6,7 +5,7 @@ module.exports = {
   networks: {
     ropsten: {
       url: 'https://eth-ropsten.alchemyapi.io/v2/VFpNUPNRnp8cO0RhdSIrFn7s9c7zIM63',
-      accounts: [ 'c3baee9bbd51b36b368491dcb6ffdd8c515e4befe18c2ce9b02d0aa6953ef22f' ]
-    }
-  }
-}
+      accounts: ['64f498ff19c89cf2d599992989601e730eb62839e867cde28b8f7063d406bae2'],
+    },
+  },
+};
