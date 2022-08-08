@@ -22,25 +22,19 @@ https://camo.githubusercontent.com/b61e5e14fa54284302665905b7548c96dc36a81c500fb
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Manoranjan-Sethi/Cypher_Transaction_App_Web_3.0.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd client/
 ```
 
 Install dependencies
 
 ```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
+  npm run dev
 ```
 
 
