@@ -1,6 +1,6 @@
 # Cypher_Transaction_App_Web_3.0
 
-Web 3.0 has the potential to change the internet as we know it, forever. We are early in catching the trend right now. With a stunning design, connected to the blockchain, Meta mask pairing, interaction with smart contracts, sending Ethereum through the blockchain network, writing solidity code, and much more, Cypher is the best Web3 Blockchain app.
+Web 3.0 has the potential to change the internet as we know it, forever. A stunning design, connected to the blockchain, Meta mask pairing, interaction with smart contracts, sending Ethereum through the blockchain network and solidity code.
 
 The frontend is made with ReactJS which is a framework of JavaScript and the backend uses blockchain technology. Here Ethereum is acts as the cryptocurrency to send and receive transactions for which the Ropsten Test Network is used. And for Ethereum development platform, Hardhat is used where we are deploying the smart contracts.
 
