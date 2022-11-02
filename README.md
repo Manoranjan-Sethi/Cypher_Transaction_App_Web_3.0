@@ -42,7 +42,7 @@ Install dependencies
 
 **Client:** React, Redux, TailwindCSS
 
-**Server:** Node, Express, SOLIDITY, Ethereum, Smart-contract
+**Server:** Node, SOLIDITY, Ethereum, Smart-contract
 
 
 
